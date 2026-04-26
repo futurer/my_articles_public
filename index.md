@@ -5,7 +5,8 @@ title: Test
 
 # Test
 
-{:toc}
+{% toc %}
+
 
 ## A
 text
