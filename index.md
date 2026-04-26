@@ -5,7 +5,6 @@ title: Test
 
 # Test
 
-{% toc %}
 
 
 ## A
