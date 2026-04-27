@@ -3,4 +3,11 @@
 # theme: minima
 
 # С оглавлением
-theme: just-the-docs
+# theme: just-the-docs
+
+
+# Итоговый _config.yml
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
