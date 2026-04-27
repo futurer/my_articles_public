@@ -4,10 +4,10 @@
 ---
 title: Test 1
 layout: default
-nav_order: 1
-has_toc: true
 ---
 
+1. TOC
+{:toc}
 
 
 TEST_3
