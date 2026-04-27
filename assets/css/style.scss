@@ -3,10 +3,12 @@
 
 @import "minima";
 
-.page-content .wrapper {
+/* ширина страницы */
+.wrapper {
   max-width: 900px;
 }
 
+/* картинки */
 .post-content img {
   width: 100%;
   max-width: 900px;
