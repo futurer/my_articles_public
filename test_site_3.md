@@ -6,8 +6,6 @@ layout: default
 title: Test 1
 ---
 
-## Содержание
-{:toc}
 
 TEST_3
 # 1
