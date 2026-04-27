@@ -2,9 +2,12 @@
 
 
 ---
-layout: default
 title: Test 1
+layout: default
+nav_order: 1
+has_toc: true
 ---
+
 
 
 TEST_3
