@@ -3,5 +3,10 @@ TEST_3
 27-04-2026
 
 
+ТЕСТ - картинка
+
+<img width="1166" height="255" alt="image" src="https://github.com/user-attachments/assets/b0ff8bf9-b565-45f3-8771-be39af02d05f" />
+
+
 
 
